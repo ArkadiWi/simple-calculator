@@ -1947,15 +1947,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff366b2c80eb46f489d9943175cc146a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  result: 0
-  finalResult: 
-  tempResult1: 
-  tempResult2: 
-  operation1: 
-  operation2: 
-  number1: 0
-  number2: 0
-  InputField: {fileID: 971937311}
 --- !u!1 &563492412
 GameObject:
   m_ObjectHideFlags: 0
